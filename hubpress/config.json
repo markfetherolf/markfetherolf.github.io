@@ -4,7 +4,17 @@
     "repositoryName": "markfetherolf.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "markf@numinary.com",
+    "twitter": "@markfetherolf",
+    "googleplus": "mark.fetherolf",
+    "linkedin": "fetherolf",
+    "facebook": "markfetherolf",
+    "instagram": "markfetherolf",
+    "github": "markfetherolf"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
